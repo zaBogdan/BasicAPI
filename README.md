@@ -1,13 +1,13 @@
-#My RESTFULL Python API
+# My RESTFULL Python API
 
-##Instalation
+## Instalation
 
 ```
 pip install Flask
 python app.py
 ```
 
-##Implementation
+## Implementation
 This project is implemented using Flask, and is a REST API for a store.
 
-##Enjoy!
+## Enjoy!
